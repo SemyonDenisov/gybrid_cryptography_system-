@@ -1,9 +1,6 @@
------BEGIN PUBLIC KEY-----
-MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0f3gqKElqYyg9KEqFD8N
-jZM0TNYCijLZE5JiZz1W4dqaf7x6LqO2CmnlZUMaQfSr0m0mR9usmDD+RpsQAIR4
-PPyMtkB2oa6yWanmZAFerTrRx49jC3xPOlVuyQoZGLtbWz0GCst0fCxRAZVMxxxQ
-Dc7Bf50M5OOQe4kqK4lKySxHIxQBPvwG6E4uLxIuyyN2T5LubooeLZXrDDKQzwFF
-NI4CZxVnI6xfovik0Optq8QIkYZtYsCwV2KQiZ56937/P3+z9PpCtu9v9wUj9DHW
-r2YNt6cjF7bvr8NGyuBI3VQAhXNBufoSXXuwTDKbrJM4CBpzKBYSTQqhw4UVQqmI
-BwIDAQAB
------END PUBLIC KEY-----
+Python is an interpreted high-level general-purpose programming language. Its design philosophy emphasizes code
+readability with its use of significant indentation. Its language constructs as well as its object-oriented approach
+aim to help programmers write clear, logical code for small and large-scale projects. Python is dynamically-typed and
+garbage-collected. It supports multiple programming paradigms, including structured  (particularly, procedural),
+object-oriented and functional programming. It is often described as a "batteries included" language due to its
+comprehensive standard library.
